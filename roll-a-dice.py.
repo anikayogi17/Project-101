@@ -1,0 +1,9 @@
+import random
+question = input("Do you want to roll a dice?")
+response = "y"
+
+while response == y :
+    randint(start, end)
+no = random.randint(1,6)
+if confitiput.on:
+    print()
